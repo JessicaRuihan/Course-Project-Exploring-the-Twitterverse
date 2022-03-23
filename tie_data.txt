@@ -1,0 +1,32 @@
+a
+Andre
+Alberta
+www.a
+Adventurer. Aviator.
+Admirer of aardvarks.
+ENDBIO
+b
+c
+d
+END
+b
+Zoya
+Bermuda
+www.b
+ENDBIO
+c
+END
+c
+Ben
+Canada
+www.c
+ENDBIO
+b
+END
+d
+Denis
+Canada
+www.d
+ENDBIO
+c
+END

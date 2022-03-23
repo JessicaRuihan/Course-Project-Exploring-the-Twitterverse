@@ -1,0 +1,50 @@
+Jessica
+Jessica Guo
+
+http://www.jessica666.com
+happy
+every
+day
+ENDBIO
+Sophia
+Sherry
+Lexi
+Meixi
+END
+Sophia
+Sophia Wang
+Davis, CA
+
+apple
+ENDBIO
+Jessica
+Sherry
+Meixi
+END
+Sherry
+Sherry Zheng
+MN, US
+
+banana
+ENDBIO
+Jessica
+Sophia
+END
+Meixi
+Meixi Yu
+Chicago, US
+
+
+ENDBIO
+Jessica
+Sophia
+END
+Lexi
+Lexi Licheng
+mn, us
+
+
+ENDBIO
+END
+
+
